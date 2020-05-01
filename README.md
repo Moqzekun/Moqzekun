@@ -6,7 +6,7 @@
 # Emmm,to be honest ,here I will show you the way to make this website install successfully
 
   <br/>
-![License](https://img.shields.io/badge/License-MIT-brightgreen)](https://github.com/Moqzekun/Moqzekun/blob/master/LICENSE)
+![License](https://img.shields.io/badge/License-MIT-brightgreen)(https://github.com/Moqzekun/Moqzekun/blob/master/LICENSE)
 
 ![GitHub repo size](https://img.shields.io/badge/repo%20size-27.3-brightgreen)
 
