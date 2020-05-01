@@ -1,4 +1,4 @@
-<img src="https://cdn.jsdelivr.net/npm/skx@0.1.3/img/uim-logo-round.png" alt="logo" width="130" height="130" align="left" />
+<img src="http://Moqzekun.cn/Moqzekun.jpg" alt="logo" width="130" height="130" align="left" />
 
 <h1>Moqzekun</h1>
 
@@ -7,4 +7,5 @@
 <br/>
 ## Emmm,to be honest ,here I will show you the way to make this website install successfully
 <tab><tab>Welcome to use this theme, also,thanks for your supporting!
- 
+[![License](https://img.shields.io/github/license/moqzekun/1)(https://github.com/Moqzekun/License)
+
