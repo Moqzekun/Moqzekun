@@ -9,9 +9,6 @@
   
 ![License](https://img.shields.io/badge/License-MIT-brightgreen)
 ![GitHub repo size](https://img.shields.io/badge/repo%20size-27.3-brightgreen)
-
-<br/>
-
 [演示站点](http://moqzekun.cn) | [Telegram 水群](https://t.me/Moqzekun) |[清风至·我最爱的女孩](http://moqzekun.cn/love.html)
 <br/>
 <tab><tab>Welcome to use this theme, also,thanks for your supporting!
