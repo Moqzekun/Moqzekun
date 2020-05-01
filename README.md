@@ -6,5 +6,5 @@
 # Emmm,to be honest ,here I will show you the way to make this website install successfully
 <tab><tab>Welcome to use this theme, also,thanks for your supporting!
   <br/>
-[![License](https://img.shields.io/github/license/moqzekun/MIT)](https://github.com/Moqzekun/License)
+[![License](https://img.shields.io/badge/License-MIT-brightgreen)](https://github.com/Moqzekun/License)
 
